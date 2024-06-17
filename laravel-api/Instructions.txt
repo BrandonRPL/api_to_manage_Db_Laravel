@@ -1,0 +1,15 @@
+para crear una api 
+php artisan install:api
+
+ejecutar
+php artisan serve
+
+ejecutar migracion 
+php artisan migrate
+
+crear migracion o modelo
+php artisan make:migration (nombre de la migracion)
+php artisan make:model (nombre de la migracion)
+
+DB
+en el archivo env esta la conexion
